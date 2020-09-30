@@ -1,6 +1,6 @@
 {
   "name": "my-vueaplayer",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A Vuecli 4.x video player component based on DPlayer",
   "main": "dist/my-vueaplayer.common.js",
   "files": [

@@ -4,7 +4,7 @@
  * @Autor: 黄鹏举
  * @Date: 2020-09-26 23:23:54
  * @LastEditors: Seven
- * @LastEditTime: 2020-10-01 00:22:11
+ * @LastEditTime: 2020-10-01 01:24:06
 -->
 <template>
 <div class="aplayer" ref="aplayer">
@@ -14,7 +14,7 @@
 import 'aplayer/dist/APlayer.min.css';
 import APlayer from 'aplayer';
 export default {
-  name: 'myvuedplayer',
+  name: 'myvueaplayer',
   props: {
     options: {
       type: Object
